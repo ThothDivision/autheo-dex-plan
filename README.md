@@ -1,5 +1,3 @@
-> **Moved.** Merged with full history into [ThothDivision/autheo-taas-plan](https://github.com/ThothDivision/autheo-taas-plan/tree/main/dex) under `dex/`; site: https://thothdivision.github.io/autheo-taas-plan/dex/ This repository is archived (read-only).
-
 # Autheo DEX
 
 > **You choose the asset. You choose the destination. Autheo handles the chains.**
